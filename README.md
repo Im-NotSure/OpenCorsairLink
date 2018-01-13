@@ -24,3 +24,8 @@ Supported Power Supplies:
 #### Warning: Some things might not work for you!
 #### Previous version of OpenCorsairLink has been moved to the legacy branch!
 
+Please Remember to install all the necessary Software. For Ubuntu this usually is:
+sudo apt-get install build-essential
+sudo apt-get install libusb-1.0-0-dev
+sudo apt-get install pkg-config
+
